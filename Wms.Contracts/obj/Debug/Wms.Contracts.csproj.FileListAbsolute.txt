@@ -1,0 +1,4 @@
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Contracts\bin\Debug\Wms.Contracts.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Contracts\bin\Debug\Wms.Contracts.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Contracts\obj\Debug\Wms.Contracts.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Contracts\obj\Debug\Wms.Contracts.pdb

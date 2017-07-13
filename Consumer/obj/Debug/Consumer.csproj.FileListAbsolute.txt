@@ -1,0 +1,51 @@
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\GreenPipes.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\MassTransit.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\MassTransit.RabbitMqTransport.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\MetroBus.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\NewId.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Newtonsoft.Json.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\RabbitMQ.Client.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Wms.Contracts.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.dll.config
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Wms.Contracts.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\GreenPipes.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\MassTransit.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\MassTransit.RabbitMqTransport.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\NewId.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Newtonsoft.Json.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\RabbitMQ.Client.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\obj\Debug\Consumer.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.exe.config
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\bin\Debug\Consumer.exe
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Consumer\obj\Debug\Consumer.exe
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.exe.config
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.exe
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.pdb
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\GreenPipes.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\MassTransit.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\MetroBus.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\NewId.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Newtonsoft.Json.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\RabbitMQ.Client.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Wms.Contracts.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Wms.Utils.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Crypto.dll
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.pdb
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Consumer.Service.dll.config
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Wms.Contracts.pdb
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Wms.Utils.pdb
+C:\Github\Wms.MQForm\Consumer\bin\Debug\GreenPipes.xml
+C:\Github\Wms.MQForm\Consumer\bin\Debug\MassTransit.xml
+C:\Github\Wms.MQForm\Consumer\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Github\Wms.MQForm\Consumer\bin\Debug\NewId.xml
+C:\Github\Wms.MQForm\Consumer\bin\Debug\Newtonsoft.Json.xml
+C:\Github\Wms.MQForm\Consumer\bin\Debug\RabbitMQ.Client.xml
+C:\Github\Wms.MQForm\Consumer\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+C:\Github\Wms.MQForm\Consumer\obj\Debug\Consumer.exe
+C:\Github\Wms.MQForm\Consumer\obj\Debug\Consumer.pdb

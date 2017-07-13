@@ -1,0 +1,12 @@
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Connection.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Connection.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Connection\obj\Debug\Wms.Connection.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.Connection\obj\Debug\Wms.Connection.pdb
+C:\Github\Wms.MQForm\Wms.Connection\obj\Debug\Wms.Connection.dll
+C:\Github\Wms.MQForm\Wms.Connection\obj\Debug\Wms.Connection.pdb
+C:\Github\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Connection.dll
+C:\Github\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Connection.pdb
+C:\Github\Wms.MQForm\Wms.Connection\bin\Debug\Crypto.dll
+C:\Github\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Utils.dll
+C:\Github\Wms.MQForm\Wms.Connection\bin\Debug\Wms.Utils.pdb
+C:\Github\Wms.MQForm\Wms.Connection\obj\Debug\Wms.Connection.csprojResolveAssemblyReference.cache

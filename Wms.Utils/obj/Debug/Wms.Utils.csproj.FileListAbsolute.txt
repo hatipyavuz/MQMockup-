@@ -1,0 +1,6 @@
+C:\Github\Wms.MQForm\Wms.Utils\bin\Debug\Wms.Utils.dll
+C:\Github\Wms.MQForm\Wms.Utils\bin\Debug\Wms.Utils.pdb
+C:\Github\Wms.MQForm\Wms.Utils\bin\Debug\Crypto.dll
+C:\Github\Wms.MQForm\Wms.Utils\obj\Debug\Wms.Utils.csprojResolveAssemblyReference.cache
+C:\Github\Wms.MQForm\Wms.Utils\obj\Debug\Wms.Utils.dll
+C:\Github\Wms.MQForm\Wms.Utils\obj\Debug\Wms.Utils.pdb

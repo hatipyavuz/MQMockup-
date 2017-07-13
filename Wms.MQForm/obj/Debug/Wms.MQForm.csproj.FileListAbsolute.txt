@@ -1,0 +1,68 @@
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.exe.config
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.exe
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\GreenPipes.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.RabbitMqTransport.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\MetroBus.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\NewId.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Newtonsoft.Json.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\RabbitMQ.Client.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Connection.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Contracts.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Connection.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Contracts.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\GreenPipes.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.RabbitMqTransport.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\NewId.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Newtonsoft.Json.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\RabbitMQ.Client.xml
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.csprojResolveAssemblyReference.cache
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.MqForm.resources
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.Properties.Resources.resources
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.csproj.GenerateResource.Cache
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.exe
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.dll
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.pdb
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.dll.config
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.exe
+c:\users\yavuz.hatip\documents\visual studio 2017\Projects\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.exe.config
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.exe.config
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.exe
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.MQForm.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.exe
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\GreenPipes.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\MetroBus.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\NewId.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Newtonsoft.Json.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\RabbitMQ.Client.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Connection.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Contracts.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.exe.config
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Connection.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Contracts.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\GreenPipes.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\NewId.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Newtonsoft.Json.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\RabbitMQ.Client.xml
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Consumer.Service.dll.config
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.csprojResolveAssemblyReference.cache
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.MqForm.resources
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.Properties.Resources.resources
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.Settings.resources
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.csproj.GenerateResource.Cache
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.exe
+C:\Github\Wms.MQForm\Wms.MQForm\obj\Debug\Wms.MQForm.pdb
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Crypto.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Utils.dll
+C:\Github\Wms.MQForm\Wms.MQForm\bin\Debug\Wms.Utils.pdb
