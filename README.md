@@ -53,3 +53,11 @@ DateTime CreateDateTime { get; set; }
 # Section 3 
 
 Hangi serverlara bağlanıldığını ve state bilgileri gösterilir. 
+
+
+# Ayarlar
+
+Herhangi bir yeni değer girilmez ise default olarak Trendyol Dev ortamlarına bağlanır. Bu uygulama Trendyol Dev sunucunda kuruludur.
+
+![alt text](https://image.prntscr.com/image/mneYdK9-QHSo7FdotxdP_Q.png)
+
