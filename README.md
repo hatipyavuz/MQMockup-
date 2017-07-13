@@ -1,4 +1,4 @@
-# MQMockup-
+# MQMockup
 Trendyol - Sick Mq Form Mockup
 
 Resim 1 : 
