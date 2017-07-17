@@ -61,3 +61,9 @@ Herhangi bir yeni değer girilmez ise default olarak Trendyol Dev ortamlarına b
 
 ![alt text](https://image.prntscr.com/image/mneYdK9-QHSo7FdotxdP_Q.png)
 
+
+Dev Rabbit Mq Uri : devxeonrabbit.trendyol.com:15672
+Uygulamanın kurulu olduğu klasör : C:\RabbitMq-Mockup\Wms.MQForm.exe
+
+
+
